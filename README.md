@@ -22,9 +22,9 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 The dataset used in this project includes customer booking data. It contains various features that describe customer demographics, booking details, and other relevant information. The dataset is used to train the model to predict the likelihood of a booking.
 
 ## Model Training and Evaluation
--Algorithm: The Random Forest algorithm is employed due to its ability to provide insights into feature importance.
--Training Process: The dataset is split into training and testing sets. The model is trained on the training set and evaluated on the testing set.
--Evaluation Metrics: Metrics such as accuracy, precision, recall, and F1 score are used to evaluate model performance. Cross-validation is also performed to ensure robustness.
+- Algorithm: The Random Forest algorithm is employed due to its ability to provide insights into feature importance.
+- Training Process: The dataset is split into training and testing sets. The model is trained on the training set and evaluated on the testing set.
+- Evaluation Metrics: Metrics such as accuracy, precision, recall, and F1 score are used to evaluate model performance. Cross-validation is also performed to ensure robustness.
 ## Results
 The project concludes with a detailed analysis of the model's performance, highlighting the most significant features influencing customer booking behavior. The results are summarized with visual aids like feature importance plots and accuracy scores.
 
