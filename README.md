@@ -1,5 +1,5 @@
 # British-Airways-Predicting-Customer-Buying-Behaviour
-Description
+## Description
 This project aims to predict customer bookings for British Airways by analyzing customer data. The objective is to develop a predictive model that enables the airline to engage potential customers proactively, using data-driven insights. The project involves data exploration, feature engineering, model training, evaluation, and interpretation of results.
 
 ## Installation
